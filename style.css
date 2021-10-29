@@ -1,0 +1,29 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    height: 75px;
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+
+body
+{
+    background-size: cover;
+}
+
+.play
+{
+    font-size: 25px;
+}
+
+canvas
+{
+    border: 6px solid black;
+    border-radius: 10px;
+    margin-top: 35px;
+}
